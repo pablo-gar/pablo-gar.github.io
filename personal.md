@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Personal interests
-subtitle: Ph.D. candidate at Stanford University
 use-site-title: true
 ---
 
