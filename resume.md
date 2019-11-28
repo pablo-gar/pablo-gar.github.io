@@ -4,9 +4,9 @@ title: Resume
 use-site-title: true
 ---
 
-#EDUCATION
+# EDUCATION
 
-##Ph.D. Biology
+## Ph.D. Biology
 
 ### 2015 – Present. Stanford University. Stanford, CA.
 
@@ -15,7 +15,7 @@ Molecular, cellular and developmental with a strong computational component
 Advisors: Hunter Fraser, Ashby Morrison
 
 
-##B.Sc. Genomics
+## B.Sc. Genomics
 
 ### 2009 – 2013. National Autonomous University of Mexico	Mexico City, Mexico.	
 With university honors.
@@ -23,35 +23,35 @@ With university honors.
 Advisor: Jean-Philippe Vielle-Calzada
 
 
-#RESEARCH EXPERIENCE
+# RESEARCH EXPERIENCE
  
-##Ph.D. thesis project 
+## Ph.D. thesis project 
 
-###2015 – Present, Fraser lab. Stanford University	Stanford, CA
+### 2015 – Present, Fraser lab. Stanford University	Stanford, CA
 
 Working on the application of evolution and population genomics to understand the mutational process in humans. Pioneering computational methods and techniques that leverage public genomic data to understand the somatic mutation landscape in the human healthy body. Integration of genomics, transcriptomics and phenotypic data to perform association analysis, which together have uncovered the molecular mechanisms underlying the acquisition of somatic mutations in the human body.
 
-##Research Assistant
+## Research Assistant
 
-###2013 – 2015 Morrison Lab. Stanford University	Stanford, CA
+### 2013 – 2015 Morrison Lab. Stanford University	Stanford, CA
 
 Worked on investigating how the three-dimensional structure of the genome influences genomic susceptibility to ultraviolet radiation. We developed a novel sequencing technique to map UV-induced DNA lesions. I was in charge of data processing and analysis. By integrating with melanoma mutation data and chromatin data from the roadmap epigenomics project, we were able to unravel the features defining the landscape of carcinogen (UV) susceptibility in the human genome. 
 
-##B.Sc. thesis project
+## B.Sc. thesis project
 
-###2012 – 2011 Vielle-Calzada Lab.National laboratory of genomics for biodiversity	Irapuato, Mexico
+### 2012 – 2011 Vielle-Calzada Lab.National laboratory of genomics for biodiversity	Irapuato, Mexico
 
 Worked on the application of functional genomics through computational biology to investigate sexual development in plants. I processed and analyzed small-RNA sequencing data obtained from plant ovules.
              
-##Research internship
+## Research internship
 
-###2010 – 2011 	National Autonomous University of Mexico	Mexico City, Mexico
+### 2010 – 2011 	National Autonomous University of Mexico	Mexico City, Mexico
 
 Worked in the Esperanza Martinez’s lab at UNAM on the Mechanisms of Gram-negative bacteria competition.
 
-#SKILLS
+# SKILLS
  
-##Computational
+## Computational
 
 -	Proficient in R and python
 -	Proficient in snakemake
@@ -62,7 +62,7 @@ Worked in the Esperanza Martinez’s lab at UNAM on the Mechanisms of Gram-negat
 -	Experience with biological databases like GTEx, COSMIC, TCGA and roadmap epigenomics.
 -	Strong statistical background
 
-##Experimental
+## Experimental
 
 -	Human tissue culture
 -	Molecular techniques including, wester and slot blots, transfection and infection of cells, FACS, electrophoresis, and qPCR
@@ -70,7 +70,7 @@ Worked in the Esperanza Martinez’s lab at UNAM on the Mechanisms of Gram-negat
 -	Classical and topo cloning
 
 
-#PUBLICATIONS
+# PUBLICATIONS
  
 **Garcia-Nieto PE**, Morrison AJ, Fraser H. The landscapce of somatic mutations in the human healthy body. Submitted 
 
@@ -83,7 +83,7 @@ Martín GM, King DA, Green EM, **Garcia-Nieto PE**, Alexander R, Collins SR, Kr
 Martín GM, King DA **Garcia-Nieto PE**, Morrison AJ. Transcriptome profiling of Set5 and Set1 methyltransferases: Tools for visualization of gene expression. Genomics Data. 2014
 
 
-#AWARDS, HONORS & FELLOWSHIPS
+# AWARDS, HONORS & FELLOWSHIPS
  
 - 2016 – Bio-X Ph.D. fellowship. 
 Full funding for Ph.D. studies given to students with academic excellence and interdisciplinary projects

@@ -20,6 +20,8 @@ description: A personal website of Pablo Eduardo Garcia Nieto
 
 # List of links in the navigation bar
 navbar-links:
+  Research: "research"
+  Personal Interests: "personal"
   About Me: "aboutme"
   Software:
     - rSubmitter (SLURM for R): "https://pablo-gar.github.io/rSubmitter/index.html"
