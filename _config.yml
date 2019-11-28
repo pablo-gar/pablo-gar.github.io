@@ -23,7 +23,7 @@ navbar-links:
   About & Research:
     - Research: "research"
     - Personal Interests: "personal"
-    - My story: ""aboutme"
+    - My story: "aboutme"
   Software:
     - rSubmitter (SLURM for R): "https://pablo-gar.github.io/rSubmitter/index.html"
   Resume: "resume"
