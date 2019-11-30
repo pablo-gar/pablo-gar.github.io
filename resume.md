@@ -11,6 +11,7 @@ use-site-title: true
 *2015 – Present. Stanford University. Stanford, CA.*
 
 Molecular, cellular and developmental with a strong computational component.
+
 Advisors: Hunter Fraser, Ashby Morrison
 
 
@@ -18,6 +19,7 @@ Advisors: Hunter Fraser, Ashby Morrison
 
 *2009 – 2013. National Autonomous University of Mexico	Mexico City, Mexico.*	
 With university honors.
+
 Advisor: Jean-Philippe Vielle-Calzada
 
 
@@ -25,7 +27,7 @@ Advisor: Jean-Philippe Vielle-Calzada
  
 #### Ph.D. thesis project 
 
-*2015 – Present, Fraser lab. Stanford University	Stanford, CA.*
+*2015 – Present, Fraser and Morrison labs. Stanford University	Stanford, CA.*
 
 Working on the application of evolution and population genomics to understand the mutational process in humans. Pioneering computational methods and techniques that leverage public genomic data to understand the somatic mutation landscape in the human healthy body. Integration of genomics, transcriptomics and phenotypic data to perform association analysis, which together have uncovered the molecular mechanisms underlying the acquisition of somatic mutations in the human body.
 
@@ -70,7 +72,7 @@ Worked in the Esperanza Martinez’s lab at UNAM on the Mechanisms of Gram-negat
 
 ## PUBLICATIONS
  
-**Garcia-Nieto PE**, Morrison AJ, Fraser H. The landscapce of somatic mutations in the human healthy body. Submitted 
+**Garcia-Nieto PE**, Morrison AJ, Fraser H. The landscape of somatic mutations in the human healthy body. Submitted 
 
 Beckwith SL, Schwartz EK, **García-Nieto PE**, King DA, Gowans GJ, Wong KM, Eckley TL, Paraschuk AP, Peltan EL, Lee LR, Yao W, Morrison AJ. The INO80 chromatin remodeler sustains metabolic stability by promoting TOR signaling and regulating histone acetylation. PLoS Genet. 2018
 
