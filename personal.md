@@ -15,6 +15,6 @@ About 3 to 5 times a week you can find me playing some sort of soccer. You name 
 ## Reading
 I always have pair of books, a fiction and a non-fiction one. My last combination is the Bluest Eye by Toni Morrison (I'm trying to explore more american literature) and The Undoing Project by Micheal Lewis. 
 
-## Simple photogragy
+## Simple photography
 I've been teaching myself photograpgy from scratch, for a true begginner the internet is great source to learn almos anything to a decent state. I will upload some of my favorites photos soon.
 
