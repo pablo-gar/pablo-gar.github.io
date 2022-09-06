@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: About me
 subtitle: My name is Pablo Garcia-Nieto, I am currently a computational biologist at the Chan Zuckerberg Initiative.
 use-site-title: true
 ---
@@ -14,3 +14,4 @@ I am a computational biologist with a experience on analysis of big data in biol
 I'm a big supporter of open and democratic science and I'm optimistic that its impacts and development can reach *almost* everyone. 
 
 Personally, if I'm not on the move traveling, you can find me trying to improve my dancing skills (cumbia, salsa, and swing), in the soccer field or on my road bike, doing amateur photography, reading at a cafe, or having a beer with friends.
+
