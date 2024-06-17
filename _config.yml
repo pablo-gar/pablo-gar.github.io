@@ -20,14 +20,13 @@ description: A personal website of Pablo Eduardo Garcia Nieto
 
 # List of links in the navigation bar
 navbar-links:
-  About & Research:
-    - Research: "pages/research"
-    - Personal Interests: "pages/personal"
-    #- My story: "aboutme"
+  Research: "pages/research"
   Github: "https://github.com/pablo-gar"
+  Linkedin: "https://www.linkedin.com/in/pablo-gar/"
   #Software:
   #  - rSubmitter (SLURM for R): "https://pablo-gar.github.io/rSubmitter/index.html"
   #Resume: "pages/resume"
+  Hobbies: "pages/personal"
   Publications: "pages/publications"
 
 # Image to show in the navigation bar - image must be a square (width = height)
