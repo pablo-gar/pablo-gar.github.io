@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: My name is Pablo Garcia-Nieto, I am currently a computational biologist at the Chan Zuckerberg Initiative.
+subtitle: My name is Pablo Garcia-Nieto, I am a computational biologist and product manager at the Chan Zuckerberg Initiative.
 use-site-title: true
 ---
 
