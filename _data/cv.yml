@@ -1,0 +1,133 @@
+cv:
+  name: Pablo Eduardo Garcia-Nieto
+  label: Computational Biologist
+  email: paedugar@gmail.com
+  location: Stanford, CA
+  image: ""
+  summary: My work sits at the intersection of large-scale omics data, tool development, and scientific partnerships, translating advanced computational methods into tools and programs that help researchers move faster. 
+
+  social_networks:
+    - network: GitHub
+      username: pablo-gar
+    - network: X
+      username: paedugar
+    - network: LinkedIn
+      username: pablo-gar
+
+  sections:
+    Education:
+      - institution: Stanford University
+        location: Stanford, CA
+        url: https://www.stanford.edu/
+        area: Biology (Molecular, Cellular and Developmental)
+        studyType: Ph.D.
+        start_date: 2015
+        end_date: 2020
+        highlights:
+          - "Advisors: Hunter Fraser and Ashby Morrison"
+          - Strong computational component
+
+      - institution: National Autonomous University of Mexico (UNAM)
+        location: Mexico City, Mexico
+        url: https://www.unam.mx/
+        area: Genomics
+        studyType: B.Sc.
+        start_date: 2009
+        end_date: 2013
+        highlights:
+          - Graduated with university honors
+          - "Advisor: Jean-Philippe Vielle-Calzada"
+
+    Experience:
+      - company: biohub
+        position: Staff Data Scientist
+        location: New york, NY
+        start_date: 2025
+        end_date: Present
+        summary: Technical lead of the Billion Cell Project, and scaling single-cell biology for research groups at the biohub
+        highlights:
+          - Technical lead for the Billion Cells Project, supporting labs generating millions of single-cell transcriptomic profiles.
+          - Lead a team scaling the processing, analysis, and infrastructure needed to make these datasets accessible and usable for researchers.
+          - Work directly with partner labs to support computational biology needs, mentoring scientists and helping design analyses and experimental strategies.
+
+      - company: insitro
+        position: Senior Data Scientist
+        location: San Francisco, CA
+        start_date: 2023
+        end_date: 2024
+        summary: AI-driven drug discovery at insitro to desing, analyze and interpret large-scale single-cell experiments.
+        highlights:
+          - Partnered closely with experimental scientists to design experiments that informed therapeutic programs and target prioritization.
+          - Iterated rapidly with wet-lab teams to refine experimental strategies and integrate computational insights into decision-making for clinical programs.
+          
+      - company: Chan Zuckerberg Initiative
+        position: Computational Biologist and Product Manager
+        location: Redwood City, CA
+        start_date: 2020
+        end_date: 2023
+        summary: Computational biologist and product manager of CELLxGENE Census, led teams in feature development, and scientific validity of our tools.
+        highlights:
+          - Developed and prototyped algorithms for processing and analysis of single-cell data. Collaborated with engineers to bring methdods to production for 1000+ datasets.
+          - Defined, developed, and launched single-cell software products. Led a team of engineers and UXR to deliver CELLxGENE Census for large-scale modeling use cases.
+          
+      - company: Fraser and Morrison Labs, Stanford University
+        position: Ph.D. Researcher
+        location: Stanford, CA
+        start_date: 2015
+        end_date: 2020
+        summary: Application of evolution and population genomics to understand the mutational process in humans.
+        highlights:
+          - Pioneered computational methods to study somatic mutation landscape using 10,000+ sequencing samples from 500+ individuals
+          - Integrated genomics, transcriptomics, and phenotypic data to uncover mechanisms of somatic mutation acquisition
+          - Developed sequencing technologies to map UV-induced DNA lesions genome-wide
+
+      - company: Morrison Lab, Stanford University
+        position: Research Assistant
+        location: Stanford, CA
+        start_date: 2013
+        end_date: 2015
+        summary: Investigated how 3D genome structure influences genomic susceptibility to UV radiation.
+        highlights:
+          - Developed a novel sequencing technique to map UV-induced DNA lesions
+          - Integrated melanoma mutation data with epigenomics data to characterize carcinogen susceptibility
+
+      - company: Vielle-Calzada Lab, LANGEBIO
+        position: Computational Biologist
+        location: Irapuato, Mexico
+        start_date: 2011
+        end_date: 2012
+        highlights:
+          - Applied functional genomics and computational biology to investigate sexual development in plants
+          - Processed and analyzed small-RNA sequencing data from plant ovules
+
+    Awards:
+      - title: Bio-X Ph.D. Fellowship
+        date: 2016
+        awarder: Stanford Bio-X
+        summary: Full funding for Ph.D. studies given to students with academic excellence and interdisciplinary projects.
+
+      - title: Coca-Cola Fellowship for Research Abroad
+        date: 2013
+        awarder: Coca-Cola Foundation
+        summary: Given to outstanding undergraduate students from Latin America to perform research in the USA or Europe.
+
+      - title: Honors in B.Sc. Thesis
+        date: 2013
+        awarder: UNAM
+        summary: Given to students who achieved a GPA greater than 3.7, performed a research project assessed as high-quality research.
+
+      - title: Gold Medal, iGEM Synthetic Biology Competition
+        date: 2010
+        awarder: MIT / iGEM
+        summary: Given to excelling competitors that contribute with an impactful project in synthetic biology.
+
+    Skills:
+      - name: Computational
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, R, single-cell and bulk RNA, variant calling and eQTLs, Snakemake/Nextflow, Bash, HPC clusters (SLURM/Torque), FACS analysis."
+
+      - name: Experimental
+        level: Proficient
+        icon: fa-solid fa-flask
+        keywords: "Human tissue culture, Western/slot blots, Transfection and infection, FACS, Electrophoresis, qPCR, DNA labelling, Immunofluorescence, Classical and topo cloning"
