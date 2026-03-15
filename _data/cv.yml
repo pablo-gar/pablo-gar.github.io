@@ -41,8 +41,7 @@ cv:
         start_date: 2025
         end_date: present
         highlights:
-          - Technical lead for the Billion Cells Project, supporting labs generating millions of single-cell transcriptomic profiles.
-          - Lead a team scaling the processing, analysis, and infrastructure needed to make these datasets accessible and usable for researchers.
+          - Technical lead for the Billion Cells Project, supporting labs processing millions of single-cell transcriptomic profiles.
           - Work directly with partner labs to support computational biology needs, mentoring scientists and helping design analyses and experimental strategies.
 
       - company: insitro
@@ -51,7 +50,7 @@ cv:
         start_date: 2023
         end_date: 2024
         highlights:
-          - Partnered closely with experimental scientists to design experiments that informed therapeutic programs and target prioritization.
+          - Created re-usable analytical pipelines for single-cell gene expression data in close partnership with engineers and machine learning scientists.
           - Iterated rapidly with wet-lab teams to refine experimental strategies and integrate computational insights into decision-making for clinical programs.
 
       - company: Chan Zuckerberg Initiative
