@@ -18,7 +18,7 @@ About 3 to 5 times a week you can find me playing some sort of soccer. You name 
 
 ## Reading
 
-I always have a pair of books, one fiction and one non-fiction. My last combination was *The Bluest Eye* by Toni Morrison and *The Undoing Project* by Michael Lewis.
+I always have a pair of books, one fiction and one non-fiction. My last combination was _The Bluest Eye_ by Toni Morrison and _The Undoing Project_ by Michael Lewis.
 
 ## Photography
 
