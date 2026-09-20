@@ -9,11 +9,11 @@ last_name: Garcia-Nieto
 contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Computational biologist and genomics researcher at Stanford University.
+  Member of Technical Staff at Anthropic. Computational biologist working on AI for life sciences. Ph.D., Stanford University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: computational biology, genomics, somatic mutations, Stanford
+keywords: computational biology, genomics, single-cell, AI, life sciences, somatic mutations, Anthropic, Stanford
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -188,7 +188,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -297,8 +296,8 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
